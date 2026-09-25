@@ -1,6 +1,6 @@
 # COVID-19 India Time-Series Analysis
 
-The original `report_all.ipynb` has been divided into focused Jupyter notebooks, with time-series basics, terminology, and intuitive analogies added at the start of the workflow.
+This repo is about Alpha stable PAR model for time series forcasting. Analysis before the choosing model supports the choice of the model, which has been described in other files.
 
 ## Structure
 
